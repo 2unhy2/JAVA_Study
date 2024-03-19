@@ -1,0 +1,13 @@
+환경변수, JDK(Java Development Kit), JRE(Java Runtime Environment), JVM(Java virtual Machine)
+
+JDK란
+자바를 개발하는 사람들을 위한 키트.
+
+JRE란
+자바 소프트웨어..
+ㄴ 내일 더 찾아보기
+
+JVM이란
+자바 가상 기계
+자바는 스택기반으로 동작하며 os(운영체제)상관없이 개발가능// 중요함
+ㄴ내일 더 자세하게 찾아보기
